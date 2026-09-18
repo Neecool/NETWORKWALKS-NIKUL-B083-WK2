@@ -249,10 +249,3 @@ Screenshots and supporting evidence for each activity are included in the `Scree
 ![DNSRECON](Screenshots/dnsrecon.png)
 
 ![ZENMAP](Screenshots/zenmap.png)
-
-![GHDB RESULTS](https://docs.google.com/document/d/1h99KZSvwFj-Sr-PhFsrP247PWShXc0Ur/edit?usp=sharing&ouid=104310831551821763990&rtpof=true&sd=true)
-
-**Author:** Adzido Godsway
-**Program:** Networkwalks Cybersecurity Program
-**Batch:** B082
-**Week:** 02
